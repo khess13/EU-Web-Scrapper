@@ -1,0 +1,8 @@
+backups/
+EU-Discovery/
+PO-Plan/
+prevPOResults/
+procScrape/Procurement Services_files/
+*.xlsx
+*.accdb
+*.html
